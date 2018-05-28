@@ -1,4 +1,4 @@
-# This is a coding test as part of an selection process for a job
+# This is a coding test as part of a selection process for a job
 
 ## It involves two exercises
 
